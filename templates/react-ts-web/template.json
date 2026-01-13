@@ -1,0 +1,13 @@
+{
+  "id": "react-ts-web",
+  "name": "React + TypeScript (Web)",
+  "version": "1.0.0",
+  "framework": "React",
+  "language": "ts",
+  "target": "web",
+  "features": ["routing", "state-management"],
+  "placeholders": {
+    "projectName": "Project name"
+  },
+  "description": "Starter template for React + Vite web apps."
+}
