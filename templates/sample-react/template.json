@@ -1,0 +1,13 @@
+{
+  "id": "sample-react",
+  "name": "React + Vite",
+  "version": "1.0.0",
+  "framework": "React",
+  "language": "ts",
+  "target": "web",
+  "features": ["routing", "state-management"],
+  "placeholders": {
+    "PROJECT_NAME": "my-vite-app",
+    "PACKAGE_MANAGER": "npm"
+  }
+}
