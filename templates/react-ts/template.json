@@ -1,0 +1,9 @@
+{
+  "framework": "React",
+  "language": "ts",
+  "target": "desktop",
+  "features": ["Routing", "State-Management", "Electron-Ready"],
+  "placeholders": {
+    "projectName": "{{projectName}}"
+  }
+}
