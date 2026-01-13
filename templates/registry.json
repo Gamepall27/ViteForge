@@ -1,0 +1,12 @@
+[
+  {
+    "id": "react-ts",
+    "name": "React + TypeScript",
+    "description": "React + Vite mit TypeScript, vorbereitet für Desktop-Targets.",
+    "framework": "React",
+    "language": "ts",
+    "target": "desktop",
+    "features": ["Routing", "State-Management", "Electron-Ready"],
+    "placeholders": ["projectName"]
+  }
+]
